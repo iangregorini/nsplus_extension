@@ -1,6 +1,6 @@
 // Lista de colores disponibles en W3.CSS
 const coloresW3 = [
-    "w3-pink", "w3-red", "w3-blue", "w3-teal", "w3-green", "w3-indigo",
+    "w3-pink", "w3-red", "w3-blue", "w3-teal", "w3-green",
     "w3-light-blue", "w3-purple", "w3-brown", "w3-orange", "w3-yellow",
     "w3-light-green", "w3-pale-yellow", "w3-deep-purple", "w3-deep-orange"
 ];
